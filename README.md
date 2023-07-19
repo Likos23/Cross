@@ -45,3 +45,9 @@ No tienes que usar nunca `eject`. El conjunto de funciones seleccionadas es adec
 Puede obtener más información en la [documentación Crear aplicación React] (https://facebook.github.io/create-react-app/docs/getting-started).
 
 Para aprender React, consulte la [documentación de React] (https://reactjs.org/).
+
+Diagrama 
+[![diagrama-readme.jpg](https://i.postimg.cc/05DtvRLV/diagrama-readme.jpg)](https://postimg.cc/dDQRRXQC)
+
+casos de uso 
+
