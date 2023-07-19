@@ -47,7 +47,10 @@ Puede obtener más información en la [documentación Crear aplicación React] (
 Para aprender React, consulte la [documentación de React] (https://reactjs.org/).
 
 Diagrama 
-[![diagrama-readme.jpg](https://i.postimg.cc/05DtvRLV/diagrama-readme.jpg)](https://postimg.cc/dDQRRXQC)
+[![diagrama-de-uso.jpg](https://i.postimg.cc/k5hn7ttP/diagrama-de-uso.jpg)](https://postimg.cc/d7rMB3B5)
+
+capa de presentacion
+[![capa-de-presentacion.jpg](https://i.postimg.cc/rwjVYHVm/capa-de-presentacion.jpg)](https://postimg.cc/fV3QVB0n)
 
 casos de uso 
-
+[![diagrama-de-uso.jpg](https://i.postimg.cc/k5hn7ttP/diagrama-de-uso.jpg)](https://postimg.cc/d7rMB3B5)
